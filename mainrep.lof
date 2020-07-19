@@ -1,0 +1,19 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces DSR scenario}}{2}{figure.1.1}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Thesis chapters}}{4}{figure.1.2}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Two-microphone DSR recording setup. Microphones are placed $d$-distant apart. The effects of reverberation and noise is not shown in the figure.}}{6}{figure.2.1}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The magnitude spectrogram (left) and temporal envelope for different frequency bands (right) for a measured RIR with $T_{60}\approx 700$\nobreakspace {}ms and source-microphone distance of $2$\nobreakspace {}m. The temporal envelope decays down with time as is the case in Pollack's model. }}{19}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces (a) Frequency envelope and temporal variation obtained for a measured RIR from\nobreakspace {}\cite {kinoshita2016summary} with $T_{60}\approx 700$\nobreakspace {}ms and source-to-microphone distance $d=2$\nobreakspace {}m. (b) Frequency envelope and temporal variation obtained by a rank-$1$ NMF decomposition of the RIR. Frequency envelope approximated in (b) captures the most variations in (a).}}{20}{figure.3.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{20}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{20}{subfigure.2.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Effect of varying rank $P$ on the low-rank approximation for the RIR spectrogram. The deviation from the original RIR spectrogram reduces with increasing $P$. The deviation is small for $P>10$.}}{22}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces (a) Frequency envelope and temporal variation obtained for a measured RIR from\nobreakspace {}\cite {kinoshita2016summary}. (b) Frequency envelope and temporal variation obtained by a rank-$10$ NMF decomposition of the RIR. (b) is a very good approximation of (a).}}{23}{figure.3.4}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{23}{subfigure.4.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{23}{subfigure.4.2}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

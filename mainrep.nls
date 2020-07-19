@@ -1,0 +1,50 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{$R$}]\begingroup Radius of circle\nomeqref {1.4}
+		\nompageref{4}
+  \item [{$r$}]\begingroup Intrinsic length\nomeqref {1.4}
+		\nompageref{4}
+
+ \nomgroup{B}
+  \item [{$\theta $}]\begingroup Incidence angle\nomeqref {1.4}\nompageref{4}
+  %\item [{$\alpha _{\mathrm {a}}$}]\begingroup Angular acceleration\nomeqref {1.4}
+%		\nompageref{4}
+  %\item [{$\eta $}]\begingroup Viscosity\nomeqref {1.4}\nompageref{4}
+
+ \nomgroup{C}
+
+  \item [{$g$}]\begingroup Gas phase\nomeqref {1.4}\nompageref{4}
+  \item [{$v$}]\begingroup Vapor phase\nomeqref {1.4}\nompageref{4}
+
+ \nomgroup{D}
+
+  \item [{$R$}]\begingroup Reverberation\nomeqref {1.4}\nompageref{4}
+  %\item [{$i$}]\begingroup Indices\nomeqref {1.4}\nompageref{4}
+  %\item [{$x$}]\begingroup Variable in x-direction\nomeqref {1.4}
+%		\nompageref{4}
+
+ \nomgroup{E}
+  \item [{DSR}]\begingroup Distant speech recording\nomeqref {1.4}\nompageref{4}
+  \item [{RIR}]\begingroup Room impulse response\nomeqref {1.4}\nompageref{4}
+  \item [{ASR}]\begingroup Automatic speech recognition\nomeqref {1.4}\nompageref{4}  
+  \item [{TDOA}]\begingroup Time difference of arrival\nomeqref {1.4}\nompageref{4}
+  \item [{LS}]\begingroup Least square method\nomeqref {1.4}\nompageref{4}  
+  
+ \nomgroup{X}
+
+  %\item [{foo}]\begingroup foo\nomeqref {1.4}\nompageref{4}
+  \item [{$s(n)$}] \begingroup Time-domain clean speech signal\nomeqref {1.4}\nompageref{4}
+    \item [{$h(n)$}] \begingroup Time-domain RIR\nomeqref {1.4}\nompageref{4}
+    \item [{$y_R(n)$}] \begingroup Time-domain reverberated speech signal\nomeqref {1.4}\nompageref{4}
+    \item [{$y(n)$}] \begingroup Time-domain reverberated and noisy speech signal\nomeqref {1.4}\nompageref{4}
+    \item [{$z(n)$}] \begingroup Time-domain noise\nomeqref {1.4}\nompageref{4}
+    \item [{$d$}] \begingroup Microphone spacing\nomeqref {1.4}\nompageref{4}
+    \item [{$v$}] \begingroup Velocity of sound\nomeqref {1.4}\nompageref{4}
+    \item [{$y_{R,m}(n)$}] \begingroup Microphone output for $m$-th element in a microphone array in reverberant condition\nomeqref {1.4}\nompageref{4}
+    \item [{$h_{m}(n)$}] \begingroup RIR form the source to $m$-th element in a microphone array\nomeqref {1.4}\nompageref{4} 
+    \item [{$\mathbf{h}_m$}] \begingroup Vector whose elements are obtained from the $m$-th element in a microphone array $h_m(n)$\nomeqref {1.4}\nompageref{4}   
+    \item [{$\mathbf{h}$}] \begingroup Vector obtained from concatenated RIRs in a microphone array\nomeqref {1.4}\nompageref{4} 
+    \item [{$\mathbf{R}$}] \begingroup Correlation-like matrix obtained from clean speech $s(n)$\nomeqref {1.4}\nompageref{4}  
+\end{thenomenclature}

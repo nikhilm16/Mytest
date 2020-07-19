@@ -1,0 +1,64 @@
+\contentsline {chapter}{Abstract}{ix}{section*.5}
+\contentsline {chapter}{List of Figures}{xv}{section*.8}
+\contentsline {chapter}{List of Tables}{xvii}{section*.10}
+\contentsline {chapter}{List of Symbols}{xix}{chapter*.13}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Distant Speech Recording (DSR)}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Reverberation}{1}{section.1.3}
+\contentsline {section}{\numberline {1.4}Objective of the thesis}{3}{section.1.4}
+\contentsline {section}{\numberline {1.5}Contributions}{3}{section.1.5}
+\contentsline {section}{\numberline {1.6}Organization of thesis}{3}{section.1.6}
+\contentsline {chapter}{\numberline {2}Related Works}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Dereverberation methods}{5}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Beamforming}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Inverse filtering based methods}{7}{subsection.2.1.2}
+\contentsline {subsubsection}{(i) Blind estimation of RIR}{7}{section*.14}
+\contentsline {subsubsection}{(ii) Inverse filtering}{8}{section*.15}
+\contentsline {subsection}{\numberline {2.1.3}Reverberation suppression methods}{9}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}NMF based dereverberation methods}{9}{section.2.2}
+\contentsline {section}{\numberline {2.3}Limitations of NMF based dereverberation methods in literature}{12}{section.2.3}
+\contentsline {chapter}{\numberline {3}Properties of RIR}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Structure of RIR}{13}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Time domain structure}{13}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Magnitude spectrum of RIR}{14}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Pole-zero plot of RIR}{15}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Inverse filtering}{15}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Magnitude spectrogram of RIR}{17}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Pollack's model}{17}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Spectrogram structure of RIR}{17}{subsection.3.2.2}
+\contentsline {subsubsection}{Spectral and temporal variations}{18}{section*.16}
+\contentsline {subsubsection}{Sparsity}{18}{section*.17}
+\contentsline {subsubsection}{Separability assumption}{18}{section*.18}
+\contentsline {subsubsection}{Low-rank nature}{20}{section*.19}
+\contentsline {section}{\numberline {3.3}Characteristics of RIR}{22}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Source-microphone distance ($d_{sd}$)}{22}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Reverberation time ($T_{60}$)}{23}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Direct-to-reverberation ratio (DRR)}{23}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}Conclusion}{24}{section.3.4}
+\contentsline {chapter}{\numberline {4}Dereverberation based on RIR constrained cost function}{25}{chapter.4}
+\contentsline {section}{\numberline {4.1}Basic NMF based dereverberation methods}{25}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}CNMF based reverberation model}{25}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}CNMF model with NMF model for clean speech}{27}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Comparison of reverberation models}{29}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Incorporation of RIR properties on optimization problem}{29}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Frequency envelope of RIR spectrogram}{30}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Sparsity of RIR spectrogram}{30}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Retaining early part of RIR}{30}{subsection.4.2.3}
+\contentsline {chapter}{\numberline {5}Separability Assumption on RIR Spectrogram}{31}{chapter.5}
+\contentsline {section}{\numberline {5.1}NMF degradation models}{31}{section.5.1}
+\contentsline {section}{\numberline {5.2}Analysis of model}{31}{section.5.2}
+\contentsline {section}{\numberline {5.3}Enhancement algorithm}{31}{section.5.3}
+\contentsline {section}{\numberline {5.4}Experimental results}{31}{section.5.4}
+\contentsline {section}{\numberline {5.5}Discussion}{32}{section.5.5}
+\contentsline {chapter}{\numberline {6}Low-rank NMF model for RIR spectrogram}{33}{chapter.6}
+\contentsline {section}{\numberline {6.1}Justification of low-rank approximation}{33}{section.6.1}
+\contentsline {section}{\numberline {6.2}NMF model for degraded spectrogram}{33}{section.6.2}
+\contentsline {section}{\numberline {6.3}Algorithm details}{33}{section.6.3}
+\contentsline {section}{\numberline {6.4}Experimental results}{34}{section.6.4}
+\contentsline {section}{\numberline {6.5}Discussion}{34}{section.6.5}
+\contentsline {chapter}{\numberline {7}Conclusion and suggestion for future work}{33}{chapter.7}
+\contentsline {chapter}{\numberline {A}Supporting Material}{35}{appendix.A}
+\contentsline {chapter}{References}{37}{section*.16}
+\contentsline {chapter}{List of Publications}{41}{section*.18}
+\contentsline {chapter}{Acknowledgements}{43}{section*.20}

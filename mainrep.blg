@@ -1,0 +1,101 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: mainrep.aux
+The style file: IEEEtran.bst
+A level-1 auxiliary file: dec.aux
+A level-1 auxiliary file: abs.aux
+A level-1 auxiliary file: intro/introduction.aux
+A level-1 auxiliary file: lit/literature.aux
+A level-1 auxiliary file: rir/rir.aux
+A level-1 auxiliary file: icassp_2017/icassp2017.aux
+A level-1 auxiliary file: interspeech_2018/interspeech2018.aux
+A level-1 auxiliary file: RNMF/RNMF.aux
+A level-1 auxiliary file: rnd/results.aux
+A level-1 auxiliary file: pub.aux
+A level-1 auxiliary file: ack.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: NMF.bib
+You're missing a field part---line 58 of file NMF.bib
+ : 
+ : }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field part---line 66 of file NMF.bib
+ : 
+ : }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field part---line 86 of file NMF.bib
+ : 
+ : }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field part---line 94 of file NMF.bib
+ : 
+ : }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--string name "ieee_j_aslp" is undefined
+--line 164 of file NMF.bib
+You're missing a field part---line 356 of file NMF.bib
+ : 
+ : }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field part---line 468 of file NMF.bib
+ : 
+ : }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in anguera2007acoustic
+
+Done.
+You've used 38 entries,
+            4039 wiz_defined-function locations,
+            1038 strings with 14985 characters,
+and the built_in function-call counts, 31006 in all, are:
+= -- 2552
+> -- 703
+< -- 300
++ -- 396
+- -- 109
+* -- 1488
+:= -- 4520
+add.period$ -- 82
+call.type$ -- 38
+change.case$ -- 36
+chr.to.int$ -- 696
+cite$ -- 39
+duplicate$ -- 2188
+empty$ -- 2475
+format.name$ -- 145
+if$ -- 7208
+int.to.chr$ -- 0
+int.to.str$ -- 38
+missing$ -- 359
+newline$ -- 137
+num.names$ -- 38
+pop$ -- 797
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 2441
+stack$ -- 0
+substring$ -- 1674
+swap$ -- 1852
+text.length$ -- 68
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 38
+warning$ -- 1
+while$ -- 148
+width$ -- 40
+write$ -- 392
+(There were 6 error messages)
